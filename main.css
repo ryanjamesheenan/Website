@@ -6,9 +6,9 @@ html{
 }
 
 
-.page1 {
+/* .page1 {
     background-color: rgb(199, 199, 199);
-}
+} */
 
 /* this is a comment */
  
@@ -21,6 +21,7 @@ h1 {
     margin: 10px;
     border: rgb(163, 158, 159) 5px solid;
     border-radius: 30px;
+    
 
 }
 .container {
